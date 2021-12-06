@@ -4,4 +4,5 @@ This repository shows different Bayesian Neural Networks available for predictiv
 * MC-Dropout (in Progress)
 * Bayes-by-Backprop (in Progress)
 ## Related Papers:
-* (PBP) (https://arxiv.org/abs/1502.05336)
+* (PBP): (https://arxiv.org/abs/1502.05336)
+* MC-Dropout: https://arxiv.org/abs/1506.02142
